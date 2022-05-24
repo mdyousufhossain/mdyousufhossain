@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyousufhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdyousufhossain" /> </p>
 <p>
-  I'm currently working a <strong>Web developer </strong> at a small company in Dhaka , with <strong> MEARN  </strong> stack . Im looking after their website and its     related work .<em> Along side Im studying CSE </em> 
+  I'm currently working a <strong>Web developer </strong> at a small company in Dhaka , with <strong> MEARN  </strong> stack . Im looking after their website and its    related work .<em> Along side Im studying CSE </em> 
   
   I'm passionate about my work ever since i was kid I love computer stuff , from 4th grade i'v been learning new things about tech . In short i just love it 🤟.
   Well,everybody knows in this field its not that easy , its not that easy to siting on chair all day and thinking about a problem that i cant solve 😧 but all that     matter after solving that issue , that joy cannot be compare with anything . 😸
