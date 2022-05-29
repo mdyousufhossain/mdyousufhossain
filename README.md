@@ -17,7 +17,7 @@
 <p align="left">
   
   🐦 find me on <strong> Twitter/Instragram </strong> @mdyousuf_7
-  🕴️ reach out me on <strong> LinkedIn </strong> linkedin.com/in/yousuf-hossain-983821169
+  🕴️ reach out me on <strong> LinkedIn </strong> https://www.linkedin.com/in/mdyousufhossain
   💼 or you find me <strong> discord </strong> Badboy#3298
   
 </p>
