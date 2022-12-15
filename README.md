@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdyousufhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdyousufhossain" /> </p>
 <p>
-  I'm currently working a <strong>Web developer </strong> at a small company in Dhaka , with <strong> MEARN  </strong> stack . Im looking after their website and its    related work .<em> Along side Im studying CSE </em> 
+  I'm currently working as a <strong>Web developer </strong> at a small company in Dhaka , with <strong> MEARN  </strong> stack . Im looking after their website and its    related work .<em> Along side Im studying CSE </em> 
   
-  I'm passionate about my work ever since i was kid I love computer stuff , from 4th grade i'v been learning new things about tech . In short i just love it 🤟.
-  Well,everybody knows in this field its not that easy , its not that easy to siting on chair all day and thinking about a problem that i cant solve 😧 but all that     matter after solving that issue , that joy cannot be compare with anything . 😸
+  I'm passionate about my work ever since i was a kid , I love computer stuff. From 4th grade I'v been learning new things about tech. In short I just love it 🤟.
+  Well,everybody knows in this field its not that easy , Its not that easy to sit on chair all day and thinking about a problem that I cant solve 😧 but all that       matter after solving that issue , that joy cannot be compared with anything . 😸
   
-  I'm always looks for improvement thats include my knowlage . So i love learning new things new tech , well its cool after all 😃.
-  so im working on a lot of project for my personal portfolio and for freelacning work . 
+  I'm always looking for improvements that include my knowlage . So I love learning new things and new tech . Well its cool after all 😃.
+  So im working on a lot of projects for my personal portfolio and for freelacning work . 
 </p>
 <h4>Thank you </h4>
 
