@@ -8,7 +8,7 @@
   <strong> 3 years professional career.</strong>
   Thus my general interest in technology immensely grows as per my knowledge it always fascinates me how incredible it is. That's why I always find myself in the documentation when a new technology appears,
 
-  They say <em> "Knowledge has a beginning but no end" </em>, that's why I always drive into what's next  <em><strong> Ignorance is the curse of God;</strong> </em>
+  They say <em> "Knowledge has a beginning but no end" </em>, that's why I always drive into what's next. But remember that <em><strong> Ignorance is the curse of God;</strong> </em>
 </p>
 <h4>Thank you </h4>
 
