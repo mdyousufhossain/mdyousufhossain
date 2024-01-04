@@ -11,17 +11,4 @@
 </p>
 <h4>Thank you </h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-  🐦 find me on <strong> Twitter/Instragram </strong> @mdyousuf_7
-  🕴️ reach out me on <strong> LinkedIn </strong> https://www.linkedin.com/in/mdyousufhossain
-  💼 or you find me <strong> discord </strong> Badboy#3298
-  
-</p>
-<p style="padding:0; margin:0;"><img width="400px"  align="left" style="float:left; padding:0; margin:0;" src="https://github-readme-stats.vercel.app/api?username=mdyousufhossain&show_icons=true&locale=en" alt="mdyousufhossain" /></p>
-
-<p><img width="400px" align="center" style="float:right; padding:0; margin:0;" src="https://github-readme-streak-stats.herokuapp.com/?user=mdyousufhossain&" alt="mdyousufhossain" /></p>
-
-
 
